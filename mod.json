@@ -1,0 +1,9 @@
+{
+   "name": "Textures Match Resources",
+   "displayName": "Textures Match Resources", 
+   "author": "mvpoksdofe",
+   "description": "Makes blocks display way too accurately which resources they have been built with. Warning: Ugly.",
+   "version": "1.0",
+   "minGameVersion": "136",
+   "hidden": "true"
+}
